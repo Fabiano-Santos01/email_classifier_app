@@ -1,0 +1,7 @@
+Flask==3.0.3
+transformers==4.40.1
+torch==2.3.0
+nltk==3.8.1
+gunicorn==22.0.0
+# Se você for usar para ler PDF:
+# pypdf2==3.0.1
